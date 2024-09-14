@@ -1,0 +1,164 @@
+
+body {
+  
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #989292;
+  }
+  
+  header {
+    background-color: #918f91;
+    color: rgb(0, 0, 0);
+    padding: 30px 0;
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    box-shadow: 10px 5px 12px rgb(8, 8, 8);
+  
+  }
+  
+  *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
+  
+  h2{
+  text-align: center;
+  }
+  
+  .contaienr{
+  background-color: #8b878b;
+  min-height: 100vh;
+  margin: 15px auto;
+  width: 40%;
+  height: 80%;
+  padding: 30px;
+  box-shadow: 10px 5px 12px rgb(0, 0, 0);
+  }
+  
+  .content{
+  max-width: 900px;
+  margin: auto;
+  }
+  
+  img{
+  width: 35%;
+  height: 50%;
+  }
+  
+  .bu{
+  background-color: rgb(28, 28, 31);
+  width: 30%;
+  height: 5%;
+  }
+  
+  .btn{
+  padding: 15px 40px;
+  border: none;
+  outline: none;
+  color: #fff;
+  cursor: pointer;
+  position: relative;
+  z-index: 0;
+  border-radius: 12px;
+  }
+  
+  .btn::after{
+  content: "";
+  z-index: -1;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #494141;
+  left: 0;
+  top: 0;
+  border-radius: 10px;
+  }
+  body {
+  
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #ffffff;
+  }
+  
+  header {
+    background-color: #918f91;
+    color: rgb(0, 0, 0);
+    padding: 30px 0;
+    text-align: center;
+    width: 40%;
+    margin: auto;
+    box-shadow: 10px 5px 12px rgb(8, 8, 8);
+  
+  }
+  
+  *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
+  
+  h2{
+  text-align: center;
+  }
+  
+  .contaienr{
+  background-color: #8b878b;
+  min-height: 100vh;
+  margin: 15px auto;
+  width: 40%;
+  height: 80%;
+  padding: 30px;
+  box-shadow: 10px 5px 12px rgb(0, 0, 0);
+  }
+  
+  .content{
+  max-width: 900px;
+  margin: auto;
+  }
+  
+  img{
+  width: 35%;
+  height: 50%;
+  }
+  
+  .bu{
+  background-color: rgb(28, 28, 31);
+  width: 30%;
+  height: 5%;
+  }
+  
+  .btn{
+  padding: 15px 40px;
+  border: none;
+  outline: none;
+  color: #fff;
+  cursor: pointer;
+  position: relative;
+  z-index: 0;
+  border-radius: 12px;
+  }
+  
+  .btn::after{
+  content: "";
+  z-index: -1;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #494141;
+  left: 0;
+  top: 0;
+  border-radius: 10px;
+  }
+  #toggle-skills{
+    color: black;
+    background-color: aliceblue;
+    width: 100px;
+    height: 50px;
+    margin-left: 250px;
+  
+  }
+ 
